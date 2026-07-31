@@ -1,0 +1,4 @@
+interface:
+  display_name: "Understand"
+  short_description: "根据用户当下的理解，自然地讲清任何陌生对象"
+  default_prompt: "使用 $understand-skill，根据我现在的理解，通过对话带我逐步弄懂这个对象。"
